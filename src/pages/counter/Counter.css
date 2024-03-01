@@ -1,0 +1,24 @@
+.container {
+    margin: 0 auto;
+    width: 500px;
+    height: 300px;
+    background-color: #a863bd;
+    text-align: center;
+    padding-top: 150px;
+}
+
+button {
+    width: 80px;
+    margin-right: 5px;
+    height: 30px;
+    border-radius: 10px;
+    cursor: pointer;
+    border: 1px solid #4a045e;
+    background-color: #ff9191;
+    text-transform: uppercase;
+}
+
+h2{
+    text-transform: uppercase;
+    font-weight: 400;
+}
